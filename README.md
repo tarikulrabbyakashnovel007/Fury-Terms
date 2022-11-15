@@ -3,7 +3,7 @@
 **By using Fury you agree and accept the following terms of service.**
 
 1. [discord.com/terms](https://discord.com/terms)
-2. Read and agreed to our [privacy policy](https://github.com/tarikulrabbyakashnovel007/Fury-Terms/blob/main/README.md)
+2. Read and agreed to our [privacy policy](https://github.com/tarikulrabbyakashnovel007/Fury-Privacy-Policy/blob/main/README.md)
 
 # Prohibited Activities
 
